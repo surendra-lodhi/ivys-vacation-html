@@ -1,0 +1,12 @@
+<svg id="Share_icon" data-name="Share icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="22" viewBox="0 0 18 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_326" data-name="Rectangle 326" width="18" height="22" fill="#0c3c4d"/>
+    </clipPath>
+  </defs>
+  <g id="Group_279" data-name="Group 279" clip-path="url(#clip-path)">
+    <path id="Path_1590" data-name="Path 1590" d="M15,22H3a3,3,0,0,1-3-3V11a1,1,0,0,1,2,0v8a1,1,0,0,0,1,1H15a1,1,0,0,0,1-1V11a1,1,0,0,1,2,0v8a3,3,0,0,1-3,3" fill="#0c3c4d"/>
+    <path id="Path_1591" data-name="Path 1591" d="M13,6a1,1,0,0,1-.707-.293L9,2.414,5.707,5.707A1,1,0,0,1,4.293,4.293l4-4a1,1,0,0,1,1.414,0l4,4A1,1,0,0,1,13,6" fill="#0c3c4d"/>
+    <path id="Path_1592" data-name="Path 1592" d="M9,15a1,1,0,0,1-1-1V1a1,1,0,0,1,2,0V14a1,1,0,0,1-1,1" fill="#0c3c4d"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="Calendar_icon" data-name="Calendar icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_367" data-name="Rectangle 367" width="24" height="24" fill="none" stroke="#0c3c4d" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_325" data-name="Group 325" clip-path="url(#clip-path)">
+    <rect id="Rectangle_366" data-name="Rectangle 366" width="22" height="20" rx="3" transform="translate(1 3)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_1" data-name="Line 1" x2="22" transform="translate(1 9)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_2" data-name="Line 2" y1="4" transform="translate(12 1)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_3" data-name="Line 3" y1="4" transform="translate(6 1)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_4" data-name="Line 4" y1="4" transform="translate(18 1)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_5" data-name="Line 5" x2="2" transform="translate(5 14)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_6" data-name="Line 6" x2="2" transform="translate(11 14)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_7" data-name="Line 7" x2="2" transform="translate(17 14)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_8" data-name="Line 8" x2="2" transform="translate(5 18)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_9" data-name="Line 9" x2="2" transform="translate(11 18)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_10" data-name="Line 10" x2="2" transform="translate(17 18)" fill="none" stroke="#0c3c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
